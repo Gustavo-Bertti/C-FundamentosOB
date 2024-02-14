@@ -1,0 +1,14 @@
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\bin\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.exe
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\bin\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.deps.json
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\bin\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.runtimeconfig.json
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\bin\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.dll
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\bin\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.pdb
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.AssemblyInfoInputs.cache
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.AssemblyInfo.cs
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.dll
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\refint\ExerciciosDeOrientaçãoObjetos.dll
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.pdb
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ExerciciosDeOrientaçãoObjetos.genruntimeconfig.cache
+C:\Users\p051527\source\repos\ExerciciosDeOrientaçãoObjetos\ExerciciosDeOrientaçãoObjetos\obj\Debug\net8.0\ref\ExerciciosDeOrientaçãoObjetos.dll
