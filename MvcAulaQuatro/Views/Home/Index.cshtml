@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+
+    var aluno = new Aluno();
+    aluno.Id = 2;
+
+    aluno.DefinirNome("Thiago");
+
+    <h2>@aluno.RecuperarNome()</h2>
+
+    int qtdAlunos = 10;
+
+
+    <ul>
+        @for (int i = 0; i < qtdAlunos; i++)
+        {
+            <li>Aluno n: @i</li>
+        }
+    </ul>
+}
